@@ -1,4 +1,4 @@
-### I'm currently a college student.
+## I'm currently a college student.
 
 ### Profile
 <p align="left"> 
@@ -6,10 +6,10 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=utoNakamu&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-
 ### Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=utoNakamu&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **utoNakamu/utoNakamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
