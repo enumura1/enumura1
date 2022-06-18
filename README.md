@@ -1,4 +1,4 @@
-## I'm currently a college student.
+# I'm currently a college student.
 
 ## Profile
 <p align="left"> 
