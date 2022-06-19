@@ -13,7 +13,7 @@
 ## Achievements
 | Title | Badge | Earned by |
 | --- | --- | --- |
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) |1 pull requests merged
+Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) |2nd pull request merged
 
 <!--
 **utoNakamu/utoNakamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
