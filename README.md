@@ -11,9 +11,9 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Achievements
-| Title | Badge |
-| --- | --- |
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) |
+| Title | Badge | Earned by |
+| --- | --- | --- |
+Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) |1 pull requests merged
 
 <!--
 **utoNakamu/utoNakamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
