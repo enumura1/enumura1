@@ -1,4 +1,4 @@
-# I'm currently a college student.
+## currently student.
 
 ## Profile
 <p align="left"> 
@@ -14,7 +14,7 @@
 | Title | Badge |
 | --- | --- |
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) |
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) |
+Quickdraw | ![Pull Shark Badge](/images/quickdraw-default.png) |
 
 
 <!--
