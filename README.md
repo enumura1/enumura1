@@ -11,12 +11,10 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Achievements
-| Title | Badge | Earned by |
-| --- | --- | --- |
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) |2nd pull request merged
-
-## Myaccount
-- [conpass account](https://connpass.com/user/yto_nakamura/)
+| Title | Badge |
+| --- | --- |
+Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) |
+Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) |
 
 
 <!--
