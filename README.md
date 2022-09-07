@@ -1,7 +1,6 @@
 ### Profile
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utoNakamu&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=utoNakamu&count_private=true&show_icons=true&show_icons=true&theme=onedark&include_all_commits=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=utoNakamu&count_private=true&theme=react&" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=utoNakamu&theme=onedark&column=7
