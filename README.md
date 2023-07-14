@@ -1,5 +1,5 @@
 ## ■ Profile
-### I like front end development.
+### I like front-end development and 3D modeling.
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=enumura1&count_private=true&theme=react&" />
 </p>
