@@ -29,4 +29,7 @@
   <img src="https://zenn.badge.nikaera.com/s/enumura/books?style=plastic" alt="enumura books" />
 </a>
 
-<a href="https://zenn.dev/enumura?tab=scraps"><img src="https://badgen.org/img/zenn/enumura/scraps?style=plastic" alt="Scraps" /></a>
+
+<a href="https://zenn.dev/enumura?tab=scraps">
+  <img src="https://badgen.org/img/zenn/enumura/scraps?style=plastic" alt="Scraps" />
+</a>
