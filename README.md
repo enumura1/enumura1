@@ -5,7 +5,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=enumura1&count_private=true&theme=react&" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enumura1&theme=tokyonight&column=7&rank=S,AAA,AA,A,B,C
+[![trophy](https://github-profile-trophy.vercel.app/?username=enumura1&theme=tokyonight&column=7&rank=S,AAA,AA,A,B,C&no-frame=true
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ■ Languages and Tools:
