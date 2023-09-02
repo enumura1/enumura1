@@ -19,18 +19,17 @@
 
 ### - Zenn
 <a href="https://zenn.dev/enumura">
-    <img src="https://zenn.badge.nikaera.com/s/enumura/likes?style=plastic" alt="enumura likes" />
+    <img src="https://zenn.badge.nikaera.com/s/enumura/likes?style=flat" alt="enumura likes" />
 </a>
 
 <a href="https://zenn.dev/enumura/articles">
-  <img src="https://zenn.badge.nikaera.com/s/enumura/articles?style=plastic" alt="enumura articles" />
+  <img src="https://zenn.badge.nikaera.com/s/enumura/articles?style=flat" alt="enumura articles" />
 </a>
 
 <a href="https://zenn.dev/enumura/books">
-  <img src="https://zenn.badge.nikaera.com/s/enumura/books?style=plastic" alt="enumura books" />
+  <img src="https://zenn.badge.nikaera.com/s/enumura/books?style=flat" alt="enumura books" />
 </a>
 
-
-<a href="https://zenn.dev/enumura?tab=scraps">
-  <img src="https://badgen.org/img/zenn/enumura/scraps?style=plastic" alt="Scraps" />
+<a href="https://zenn.dev/enumura/scraps">
+  <img src="https://zenn.badge.nikaera.com/s/enumura/scraps?style=flat" alt="enumura scraps" />
 </a>
