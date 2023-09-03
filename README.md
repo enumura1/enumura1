@@ -1,12 +1,16 @@
 ![githubprf](https://github.com/enumura1/enumura1/assets/83349256/3969dad7-2aa0-4c98-8445-7664ec7188c3)
 ## ■ Profile
 ### I like front-end development and 3D modeling.
-<p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=enumura1&count_private=true&theme=react&" />
+<p> 
+  <img align="left" alt="github stats"  height="110px" 
+    src="https://git-hub-readme-stats-clone-xc7x.vercel.app/api?username=enumura1&count_private=true&theme=react&show_icons=true&hide_border=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enumura1&theme=tokyonight&column=7&rank=S,AAA,AA,A,B,C&no-frame=true
-)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img height="110px" src="https://github-profile-trophy.vercel.app/?username=enumura1&theme=tokyonight&column=6&rank=S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophy">
+    </a>
+</p>
 
 ## ■ Languages and Tools:
 
@@ -17,15 +21,16 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 ## ■ Social & Posts
+### ・ Social
 <p align="left">
 <a href="https://kaggle.com/enumrua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="enumrua" height="30" width="40" /></a>
 </p>
 
-### - Qiita
+### ・ Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/enumura1/posts.svg)](http://qiita.com/enumura1)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/enumura1/contributions.svg)](http://qiita.com/enumura1)
 
-### - Zenn
+### ・ Zenn
 <a href="https://zenn.dev/enumura">
     <img src="https://zenn.badge.nikaera.com/s/enumura/likes?style=flat" alt="enumura likes" />
 </a>
