@@ -2,13 +2,13 @@
 ## ■ Profile
 ### I like front-end development and 3D modeling.
 <p> 
-  <img align="left" alt="github stats"  height="100px" 
+  <img align="left" alt="github stats"  height="180px" 
     src="https://git-hub-readme-stats-clone-xc7x.vercel.app/api?username=enumura1&count_private=true&theme=react&show_icons=true&hide_border=true" />
 </p>
 
 <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img height="100px" src="https://github-profile-trophy.vercel.app/?username=enumura1&theme=onestar&column=6&rank=S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophy">
+        <img height="185px" src="https://github-profile-trophy.vercel.app/?username=enumura1&theme=onestar&column=3&rank=S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophy">
     </a>
 </p>
 
