@@ -23,7 +23,7 @@
 ## ■ Social & Posts
 ### ・ Social
 <p align="left">
-<a href="https://kaggle.com/enumrua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="enumrua" height="30" width="40" /></a>
+<a href="https://kaggle.com/remon100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="enumrua" height="30" width="40" /></a>
 </p>
 
 ### ・ Qiita
