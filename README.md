@@ -2,6 +2,7 @@
 
 ## ■ Profile
 ### I like front-end development and 3D modeling.
+### I've been wanting to make an add-on for Blender lately.
 <p> 
   <img align="left" alt="github stats"  height="180px" 
     src="https://git-hub-readme-stats-clone-xc7x.vercel.app/api?username=enumura1&count_private=true&theme=react&show_icons=true&hide_border=true" />
