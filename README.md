@@ -1,4 +1,5 @@
-![githubprf](https://github.com/enumura1/enumura1/assets/83349256/3969dad7-2aa0-4c98-8445-7664ec7188c3)
+![gitprf2](https://github.com/enumura1/enumura1/assets/83349256/f5fd7da1-c35f-4e5d-83be-01325792f966)
+
 ## ■ Profile
 ### I like front-end development and 3D modeling.
 <p> 
@@ -31,18 +32,8 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/enumura1/contributions.svg)](http://qiita.com/enumura1)
 
 ### ・ Zenn
-<a href="https://zenn.dev/enumura">
-    <img src="https://zenn.badge.nikaera.com/s/enumura/likes?style=flat" alt="enumura likes" />
-</a>
+[![Likes](https://badgen.org/img/zenn/enumura/likes?style=plastic)](https://zenn.dev/enumura)
+[![Articles](https://badgen.org/img/zenn/enumura/articles?style=plastic)](https://zenn.dev/enumura)
+[![Books](https://badgen.org/img/zenn/enumura/books?style=plastic)](https://zenn.dev/enumura?tab=books)
+[![Scraps](https://badgen.org/img/zenn/enumura/scraps?style=plastic)](https://zenn.dev/enumura?tab=scraps)
 
-<a href="https://zenn.dev/enumura/articles">
-  <img src="https://zenn.badge.nikaera.com/s/enumura/articles?style=flat" alt="enumura articles" />
-</a>
-
-<a href="https://zenn.dev/enumura/books">
-  <img src="https://zenn.badge.nikaera.com/s/enumura/books?style=flat" alt="enumura books" />
-</a>
-
-<a href="https://zenn.dev/enumura/scraps">
-  <img src="https://zenn.badge.nikaera.com/s/enumura/scraps?style=flat" alt="enumura scraps" />
-</a>
