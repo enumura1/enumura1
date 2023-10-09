@@ -10,7 +10,7 @@
 
 <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img height="185px" src="https://github-profile-trophy.vercel.app/?username=enumura1&theme=onestar&column=3&rank=S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophy">
+        <img height="185px" src="https://github-profile-trophy.vercel.app/?username=enumura1&theme=onestar&column=4&rank=S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophy">
     </a>
 </p>
 
