@@ -1,5 +1,6 @@
-
-![prfimg](https://github.com/enumura1/enumura1/assets/83349256/49369c69-3dc7-4d75-a596-a8fd9b600684)
+<p align="center">
+  <img width="70%" src="images/prfimg.gif" />
+</p>
 
 ## ■ Profile
 ### I like front-end development and 3D modeling.
