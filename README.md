@@ -4,8 +4,7 @@
 <p align="center">Created by enumura in Blender</p>
 
 ## ■ Profile
-### I like front-end development and 3D modeling.
-### I've been wanting to make an add-on for Blender lately.
+### I like front-end development and 3DCG modeling.
 <p> 
   <img align="left" alt="github stats"  height="180px" 
     src="https://git-hub-readme-stats-clone-xc7x.vercel.app/api?username=enumura1&count_private=true&theme=react&show_icons=true&hide_border=true" />
@@ -36,8 +35,23 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/enumura1/contributions.svg)](http://qiita.com/enumura1)
 
 ### ・ Zenn
-[![Likes](https://badgen.org/img/zenn/enumura/likes?style=plastic)](https://zenn.dev/enumura)
-[![Articles](https://badgen.org/img/zenn/enumura/articles?style=plastic)](https://zenn.dev/enumura)
-[![Books](https://badgen.org/img/zenn/enumura/books?style=plastic)](https://zenn.dev/enumura?tab=books)
-[![Scraps](https://badgen.org/img/zenn/enumura/scraps?style=plastic)](https://zenn.dev/enumura?tab=scraps)
+<a href="https://zenn.dev/enumura">
+  <img src="https://zenn.badge.nikaera.com/s/enumura/likes?style=flat" alt="enumura likes" />
+</a>
+
+<a href="https://zenn.dev/enumura/articles">
+  <img src="https://zenn.badge.nikaera.com/s/enumura/articles?style=flat" alt="enumura articles" />
+</a>
+
+<a href="https://zenn.dev/enumura/followers">
+  <img src="https://zenn.badge.nikaera.com/s/enumura/followers?style=flat" alt="enumura followers" />
+</a>
+
+<a href="https://zenn.dev/enumura/books">
+  <img src="https://zenn.badge.nikaera.com/s/enumura/books?style=flat" alt="enumura books" />
+</a>
+
+<a href="https://zenn.dev/enumura/scraps">
+  <img src="https://zenn.badge.nikaera.com/s/enumura/scraps?style=flat" alt="enumura scraps" />
+</a>
 
