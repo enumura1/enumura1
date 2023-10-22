@@ -1,6 +1,7 @@
 <p align="center">
   <img width="70%" src="images/prfimg.gif" />
 </p>
+<p align="center">Created by enumura in Blender</p>
 
 ## ■ Profile
 ### I like front-end development and 3D modeling.
