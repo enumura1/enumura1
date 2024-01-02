@@ -47,10 +47,6 @@
   <img src="https://zenn.badge.nikaera.com/s/enumura/articles?style=flat" alt="enumura articles" />
 </a>
 
-<a href="https://zenn.dev/enumura/followers">
-  <img src="https://zenn.badge.nikaera.com/s/enumura/followers?style=flat" alt="enumura followers" />
-</a>
-
 <a href="https://zenn.dev/enumura/books">
   <img src="https://zenn.badge.nikaera.com/s/enumura/books?style=flat" alt="enumura books" />
 </a>
