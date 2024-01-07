@@ -1,19 +1,13 @@
-<p align="center">
-  <img width="70%" src="images/prfimg.gif" />
+<p align="left">
+  <img width="43%" src="images/prfimg.gif" />
 </p>
-<p align="center">Created by enumura in Blender</p>
+<p align="left">Created by enumura in Blender</p>
 
 ## ■ Profile
 ### I like front-end development and 3DCG modeling.
 <p> 
-  <img align="left" alt="github stats"  height="180px" 
+  <img align="center" alt="github stats"  height="180px" 
     src="https://git-hub-readme-stats-clone-xc7x.vercel.app/api?username=enumura1&count_private=true&theme=react&show_icons=true&hide_border=true" />
-</p>
-
-<p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img height="185px" src="https://github-profile-trophy.vercel.app/?username=enumura1&theme=onestar&column=4&rank=S,AAA,AA,A,B,C&no-frame=true" alt="GitHub Trophy">
-    </a>
 </p>
 
 ## ■ Languages and Tools:
