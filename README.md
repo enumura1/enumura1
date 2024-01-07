@@ -1,5 +1,5 @@
 <p align="left">
-  <img width="43%" src="images/prfimg.gif" />
+  <img width="50%" src="images/prfimg.gif" />
 </p>
 <p align="left">Created by enumura in Blender</p>
 
