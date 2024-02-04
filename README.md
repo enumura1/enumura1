@@ -1,6 +1,6 @@
 ## Profile
 ![](https://komarev.com/ghpvc/?username=enumura1&color=blue)
-#### 🌱 I like front-end development and 3DCG modeling.
+### 🌱 I like front-end development and 3DCG modeling.
 <p> 
   <img  alt="github stats"  height="180px" 
     src="https://git-hub-readme-stats-clone-xc7x.vercel.app/api?username=enumura1&count_private=true&theme=react&show_icons=true&hide_border=true" />
