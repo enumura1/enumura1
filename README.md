@@ -4,8 +4,6 @@
 <p> 
   <img  alt="github stats"  height="180px" 
     src="https://git-hub-readme-stats-clone-xc7x.vercel.app/api?username=enumura1&count_private=true&theme=react&show_icons=true&hide_border=true" />
-
-  <img height="180px" src="images/prfimg.gif" />
 </p>
 
 ## Languages and Tools:
@@ -19,17 +17,10 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></p>
 
-## Accounts & Posts
-### ・ Accounts
-<p align="left">
-<a href="https://kaggle.com/remon100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="enumrua" height="30" width="40" /></a>
-</p>
-
-### ・ Qiita
+## Qiita & Zenn
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/enumura1/posts.svg)](http://qiita.com/enumura1)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/enumura1/contributions.svg)](http://qiita.com/enumura1)
 
-### ・ Zenn
 <a href="https://zenn.dev/enumura">
   <img src="https://zenn.badge.nikaera.com/s/enumura/likes?style=flat" alt="enumura likes" />
 </a>
@@ -45,4 +36,3 @@
 <a href="https://zenn.dev/enumura/scraps">
   <img src="https://zenn.badge.nikaera.com/s/enumura/scraps?style=flat" alt="enumura scraps" />
 </a>
-
