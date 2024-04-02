@@ -27,12 +27,13 @@ I like front-end development and 3DCG modeling.
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/enumura1/posts.svg)](http://qiita.com/enumura1)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/enumura1/contributions.svg)](http://qiita.com/enumura1)
 
-<a href="https://zenn.dev/enumura">
-  <img src="https://zenn.badge.nikaera.com/s/enumura/likes?style=flat" alt="enumura likes" />
-</a>
+</div>
 
-<a href="https://zenn.dev/enumura/articles">
-  <img src="https://zenn.badge.nikaera.com/s/enumura/articles?style=flat" alt="enumura articles" />
-</a>
+<div>
+  
+  [![Likes](https://badgen.org/img/zenn/enumura/likes?style=flat)](https://zenn.dev/enumura)
+  [![Articles](https://badgen.org/img/zenn/enumura/articles?style=flat)](https://zenn.dev/enumura)
+  
+</div>
 
-</div></details>
+</details>
