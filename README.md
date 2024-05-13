@@ -31,7 +31,7 @@ I like front-end development and 3DCG modeling.
 
 <div>
   
-  [![Likes](https://badgen.org/img/zenn/enumura/likes?style=flat)](https://zenn.dev/enumura)
+  [![Likes](https://badgen.org/img/zenn/enumura/likes?style=plastic)](https://zenn.dev/enumura)
   [![Articles](https://badgen.org/img/zenn/enumura/articles?style=flat)](https://zenn.dev/enumura)
   
 </div>
