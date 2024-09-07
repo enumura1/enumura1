@@ -15,10 +15,10 @@ I like front-end development and 3DCG modeling.
 <details><summary>Languages and Tools</summary><div>
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,materialui,react,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,materialui,react,tailwind,blender)](https://skillicons.dev)
 
 ## NOW TRAINING
-[![My Skills](https://skillicons.dev/icons?i=react,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 </div></details>
 
 <details><summary>Qiita & Zenn</summary><div>
