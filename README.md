@@ -38,25 +38,15 @@ I like front-end development and 3DCG modeling.
 
 </details>
 
-<details><summary>Qiita & Zenn</summary><div>
-
-## Qiita & Zenn
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/enumura1/posts.svg)](http://qiita.com/enumura1)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/enumura1/contributions.svg)](http://qiita.com/enumura1)
-
-</div>
-
+<details><summary>Certifications</summary>
 <div>
   
-  [![Likes](https://badgen.org/img/zenn/enumura/likes?style=plastic)](https://zenn.dev/enumura)
-  [![Articles](https://badgen.org/img/zenn/enumura/articles?style=flat)](https://zenn.dev/enumura)
-  
+## AWS Certifications
+<p>
+  <img src="images/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate" height="105px">
+  <img src="images/aws-certified-solutions-architect-professional.png" alt="AWS Certified Solutions Architect Professional" height="105px">
+</p>
 </div>
-
-</details>
-
-<details><summary>Certifications</summary>
-
 
 </details>
 
