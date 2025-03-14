@@ -14,7 +14,7 @@ I like front-end development and 3DCG modeling.
 
 <details><summary>Languages and Tools</summary><div>
 
-## Languages and Tools:
+## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,react,vite,blender)](https://skillicons.dev)
 
 ## NOW TRAINING
