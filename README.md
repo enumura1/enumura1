@@ -18,7 +18,7 @@ I like front-end development and 3DCG modeling.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,react,vite,blender)](https://skillicons.dev)
 
 ## NOW TRAINING
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,rust)](https://skillicons.dev)
 </div></details>
 
 <details><summary>Qiita & Zenn</summary><div>
