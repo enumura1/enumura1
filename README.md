@@ -45,6 +45,7 @@ I like front-end development and 3DCG modeling.
 <p>
   <img src="images/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate" height="105px">
   <img src="images/aws-certified-solutions-architect-professional.png" alt="AWS Certified Solutions Architect Professional" height="105px">
+  <img src="images/aws-certified-machine-learning-specialty.png" alt="AWS Certified Solutions Architect Professional" height="105px">
 </p>
 </div>
 
