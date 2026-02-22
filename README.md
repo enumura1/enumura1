@@ -3,7 +3,7 @@
 ## Profile
 ![](https://komarev.com/ghpvc/?username=enumura1&color=blue)
 
-I like front-end development and 3DCG modeling.
+software engineer.
 
 <p> 
   <img  alt="github stats"  height="180px" 
